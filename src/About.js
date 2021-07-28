@@ -1,8 +1,12 @@
+import profile from "./Profile.jpg"
+
 function About(){
     return(
         <section id="about">
-            <div>
-                <h2>About Me</h2>
+            <h2 className="aboutHeader">About Me</h2>
+            <div className="aboutMe">
+                <img className="profilePic" src={profile}/>
+                <div className="bio">
                 <p> I'm a full stack software engineer based in Brooklyn, NY. With a background 
                     in book publishing and television production, I'm always keen to consider a new project 
                     from the perspective of a reader/viewer/user. I have ample experience 
@@ -13,6 +17,7 @@ function About(){
                     In my spare time you can catch me throwing down in the ceramic studio, diving into a new book, 
                     or hiking in New England. 
                 </p>
+                </div>
             </div>
         </section>
     )

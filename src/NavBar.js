@@ -1,5 +1,6 @@
-import { useState } from 'react'
-import { Link } from 'react-scroll'
+import { useState } from 'react';
+import { Link } from 'react-scroll';
+import resume from "../src/documents/ESellers-Resume.pdf";
 
 function NavBar(){
     
@@ -12,7 +13,7 @@ function NavBar(){
                 <Link to="about" smooth={true} duration={800} onClick={() => setClicked("about")}>About</Link>
                 <Link to="projects" smooth={true} duration={800} onClick={() => setClicked("projects")}>Projects</Link>
                 <Link to="contact" smooth={true} duration={800} onClick={() => setClicked("contact")}>Contact</Link>
-                <Link to="resume" smooth={true} duration={800} onClick={() => setClicked("resume")}>Resume</Link>
+                <a href={resume}>Resume</a>
             </div>
         </div>
     )
