@@ -1,0 +1,28 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faLinkedin, faGithub, faMedium } from '@fortawesome/free-brands-svg-icons';
+import { faFilePdf } from '@fortawesome/free-solid-svg-icons';
+
+function Contact(){
+    return(
+        <section id="contact">
+            <div>
+                <h2>Say hello!</h2>
+                <span>
+                    <a target="_blank" 
+                    rel="noreferrer"
+                    href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=erin.e.sellers@gmail.com">
+                    Email me </a> 
+                 or find me elsewhere online.
+                </span>
+                <div className="icons">
+                    <a href="https://www.linkedin.com/in/erin-e-sellers/" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faLinkedin} size="3x"/></a>
+                    <a href="https://github.com/esellers25" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faGithub} size="3x"/></a>
+                    <a href="https://erinsellers25.medium.com/" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faMedium} size="3x"/></a>
+                    <a href="/documents/Gatmaitan_ResumePDF.pdf" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faFilePdf} size="3x"/></a>
+	            </div>
+            </div>
+        </section>
+    )
+}
+
+export default Contact; 
