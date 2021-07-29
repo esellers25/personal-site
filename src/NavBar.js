@@ -12,7 +12,7 @@ function NavBar(){
             <div className="navLinks">
                 <Link to="about" smooth={true} duration={800} onClick={() => setClicked("about")}>About</Link>
                 <Link to="projects" smooth={true} duration={800} onClick={() => setClicked("projects")}>Projects</Link>
-                <Link to="contact" smooth={true} duration={800} onClick={() => setClicked("contact")}>Contact</Link>
+                <Link to="contact" smooth={true} duration={800} onClick={() => setClicked("contact")}>Get in Touch</Link>
                 <a href={resume}>Resume</a>
             </div>
         </div>
