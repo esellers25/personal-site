@@ -103,7 +103,7 @@ h1 {
 h2 {
   font-size: 3em;
   padding-left: 100px;
-  padding-top: 113px;
+  /* padding-top: 113px; */
   font-family: 'Scada', sans-serif;
 }
 
