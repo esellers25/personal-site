@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5aaad119.chunk.css",
+    "main.js": "/static/js/main.40365452.chunk.js",
+    "main.js.map": "/static/js/main.40365452.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.80303d40.js",
+    "runtime-main.js.map": "/static/js/runtime-main.80303d40.js.map",
+    "static/js/2.6e55eaa4.chunk.js": "/static/js/2.6e55eaa4.chunk.js",
+    "static/js/2.6e55eaa4.chunk.js.map": "/static/js/2.6e55eaa4.chunk.js.map",
+    "static/js/3.d3f94cfe.chunk.js": "/static/js/3.d3f94cfe.chunk.js",
+    "static/js/3.d3f94cfe.chunk.js.map": "/static/js/3.d3f94cfe.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5aaad119.chunk.css.map": "/static/css/main.5aaad119.chunk.css.map",
+    "static/js/2.6e55eaa4.chunk.js.LICENSE.txt": "/static/js/2.6e55eaa4.chunk.js.LICENSE.txt",
+    "static/media/DayTripper.525551e7.png": "/static/media/DayTripper.525551e7.png",
+    "static/media/ESellers-Resume.63d3fd55.pdf": "/static/media/ESellers-Resume.63d3fd55.pdf",
+    "static/media/Fright.487d2edc.png": "/static/media/Fright.487d2edc.png",
+    "static/media/Profile.e98132c2.jpg": "/static/media/Profile.e98132c2.jpg",
+    "static/media/Snob.66846075.png": "/static/media/Snob.66846075.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80303d40.js",
+    "static/js/2.6e55eaa4.chunk.js",
+    "static/css/main.5aaad119.chunk.css",
+    "static/js/main.40365452.chunk.js"
+  ]
+}
