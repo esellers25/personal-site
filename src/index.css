@@ -62,10 +62,10 @@ code {
 }
 
 .profilePic {
-  height: 400px;
+  height: 2.5em;
   width: auto;
   border-radius: 100%;
-  margin-right: 30px;
+  margin-right: 15px;
 }
 
 .aboutMe {
@@ -81,12 +81,12 @@ code {
 }
 
 .bio {
-  width: 500px;
-  margin: 20px 0px 20px 70px;
+  width: 10em;
+  margin: 5px 0px 5px 8px;
 }
 
 p {
-  font-size: 1.5em;
+  font-size: 1.2em;
 }
 
 span {
@@ -100,14 +100,14 @@ h1 {
 }
 
 h2 {
-  font-size: 3em;
+  font-size: 2em;
   padding-left: 100px;
   /* padding-top: 113px; */
   font-family: 'Scada', sans-serif;
 }
 
 h3 {
-  font-size: 1.7em;
+  font-size: 1.5em;
   padding-left: 100px;
 }
 
@@ -128,11 +128,11 @@ h3 {
 }
 
 .examples img {
-  width: 550px;
+  width: 15em;
 }
 
 .examples p {
-  width: 400px;
+  width: 10em;
 }
 
 @media (min-width: 800px){
