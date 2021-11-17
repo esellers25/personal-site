@@ -28,7 +28,6 @@ code {
   color: white;
   position: sticky;
   top: 0;
-  width: 100%;
 }
 
 .navLinks a {
@@ -134,4 +133,124 @@ h3 {
 
 .examples p {
   width: 400px;
+}
+
+@media (min-width: 800px){
+  .navbar {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: flex-end;
+    background-color: #a7d1c2;
+    padding: 20px 35px 25px 35px;
+    color: white;
+    position: sticky;
+    top: 0;
+  }
+  
+  .navLinks a {
+    padding: 0 10px 0 10px; 
+    font-weight: 600;
+    font-size: 1.5em;
+    text-decoration: none;
+  }
+  
+  .navLinks a:hover {
+    cursor: pointer;
+    color: gray;
+  }
+  
+  .navLinks a:visited {
+    color: white;
+  }
+  
+  .icons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 20px;
+  }
+  
+  .icons a {
+    padding: 0 10px 10px 10px;
+  }
+  
+  .nameHome {
+    font-size: 4em;
+  }
+  
+  .profilePic {
+    height: 400px;
+    width: auto;
+    border-radius: 100%;
+    margin-right: 30px;
+  }
+  
+  .aboutMe {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .aboutHeader {
+    text-align: left;
+    padding-bottom: 0;
+  }
+  
+  .bio {
+    width: 500px;
+    margin: 20px 0px 20px 70px;
+  }
+  
+  p {
+    font-size: 2em;
+  }
+  
+  span {
+    font-size: 1.8em;
+    padding-left: 100px;
+  }
+  
+  h1 {
+    font-family: 'Scada', sans-serif;
+    font-weight: 600;
+  }
+  
+  h2 {
+    font-size: 4.6em;
+    padding-left: 100px;
+    /* padding-top: 113px; */
+    font-family: 'Scada', sans-serif;
+  }
+  
+  h3 {
+    font-size: 3.7em;
+    padding-left: 100px;
+  }
+  
+  .examples {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .projectSum {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  
+  .projectSum span {
+    padding-left: 0px;
+  }
+  
+  .examples img {
+    width: 34em;
+  }
+  
+  .examples p {
+    width: 16em;
+  }
 }
