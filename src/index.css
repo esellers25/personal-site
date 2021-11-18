@@ -200,12 +200,12 @@ h3 {
   }
   
   .bio {
-    width: 600px;
+    width: 550px;
     margin: 20px 0px 20px 70px;
   }
   
   p {
-    font-size: 2em;
+    font-size: 1.8em;
   }
   
   span {
@@ -219,14 +219,14 @@ h3 {
   }
   
   h2 {
-    font-size: 4.6em;
+    font-size: 3.8em;
     padding-left: 100px;
     /* padding-top: 113px; */
     font-family: 'Scada', sans-serif;
   }
   
   h3 {
-    font-size: 3.7em;
+    font-size: 3em;
     padding-left: 100px;
   }
   
