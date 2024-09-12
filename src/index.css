@@ -14,7 +14,18 @@ code {
 }
 
 .App {
-    margin: 5% 7% 5% 5%;
+    margin: 2% 7% 5% 5%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a {
+  font-family: 'Overpass', sans-serif;
 }
 
 .navbar {
@@ -32,7 +43,7 @@ code {
 
 .navLinks a {
   padding: 0 10px 0 10px; 
-  font-weight: 600;
+  font-weight: 400;
   font-size: 1.5em;
   text-decoration: none;
 }
@@ -62,7 +73,7 @@ code {
 }
 
 .profilePic {
-  height: 2.5em;
+  height: 30em;
   width: auto;
   border-radius: 100%;
   margin-right: 15px;
@@ -77,16 +88,18 @@ code {
 
 .aboutHeader {
   text-align: left;
+  margin-top: 0;
+  margin-bottom: 0;
   padding-bottom: 0;
 }
 
 .bio {
-  width: 10em;
+  width: 15em;
   margin: 5px 0px 5px 8px;
 }
 
 p {
-  font-size: 1.2em;
+  font-size: 1em;
 }
 
 span {
@@ -95,15 +108,12 @@ span {
 }
 
 h1 {
-  font-family: 'Scada', sans-serif;
   font-weight: 600;
 }
 
 h2 {
   font-size: 2em;
   padding-left: 100px;
-  /* padding-top: 113px; */
-  font-family: 'Scada', sans-serif;
 }
 
 h3 {
@@ -151,8 +161,9 @@ h3 {
   
   .navLinks a {
     padding: 0 10px 0 10px; 
-    font-weight: 600;
-    font-size: 1.5em;
+    font-weight: 400;
+    font-size: 2em;
+    color: white;
     text-decoration: none;
   }
   
@@ -181,7 +192,7 @@ h3 {
   }
   
   .profilePic {
-    height: 400px;
+    height: 30em;
     width: auto;
     border-radius: 100%;
     margin-right: 30px;
@@ -200,7 +211,7 @@ h3 {
   }
   
   .bio {
-    width: 500px;
+    width: 60em;
     margin: 20px 0px 20px 70px;
   }
   
@@ -214,15 +225,12 @@ h3 {
   }
   
   h1 {
-    font-family: 'Scada', sans-serif;
     font-weight: 600;
   }
   
   h2 {
-    font-size: 4.6em;
+    font-size: 4em;
     padding-left: 100px;
-    /* padding-top: 113px; */
-    font-family: 'Scada', sans-serif;
   }
   
   h3 {
@@ -253,4 +261,8 @@ h3 {
   .examples p {
     width: 16em;
   }
+}
+
+@media screen (max-width: 320px){
+
 }

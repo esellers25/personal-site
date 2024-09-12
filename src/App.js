@@ -1,7 +1,6 @@
 import About from './About';
 import Contact from './Contact';
 import NavBar from './NavBar';
-import Projects from './Projects';
 
 
 
@@ -11,7 +10,6 @@ function App() {
       <NavBar />
       <div className="App">
         <About />
-        <Projects />
         <Contact />
       </div>
     </section>
