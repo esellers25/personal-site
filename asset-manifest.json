@@ -1,27 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.5aaad119.chunk.css",
-    "main.js": "/static/js/main.40365452.chunk.js",
-    "main.js.map": "/static/js/main.40365452.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.80303d40.js",
-    "runtime-main.js.map": "/static/js/runtime-main.80303d40.js.map",
-    "static/js/2.6e55eaa4.chunk.js": "/static/js/2.6e55eaa4.chunk.js",
-    "static/js/2.6e55eaa4.chunk.js.map": "/static/js/2.6e55eaa4.chunk.js.map",
-    "static/js/3.d3f94cfe.chunk.js": "/static/js/3.d3f94cfe.chunk.js",
-    "static/js/3.d3f94cfe.chunk.js.map": "/static/js/3.d3f94cfe.chunk.js.map",
+    "main.css": "/static/css/main.31e9c20a.chunk.css",
+    "main.js": "/static/js/main.b61d1eb6.chunk.js",
+    "main.js.map": "/static/js/main.b61d1eb6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9cb2c85c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9cb2c85c.js.map",
+    "static/js/2.d33e12d8.chunk.js": "/static/js/2.d33e12d8.chunk.js",
+    "static/js/2.d33e12d8.chunk.js.map": "/static/js/2.d33e12d8.chunk.js.map",
+    "static/js/3.ba5508fd.chunk.js": "/static/js/3.ba5508fd.chunk.js",
+    "static/js/3.ba5508fd.chunk.js.map": "/static/js/3.ba5508fd.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.5aaad119.chunk.css.map": "/static/css/main.5aaad119.chunk.css.map",
-    "static/js/2.6e55eaa4.chunk.js.LICENSE.txt": "/static/js/2.6e55eaa4.chunk.js.LICENSE.txt",
-    "static/media/DayTripper.525551e7.png": "/static/media/DayTripper.525551e7.png",
-    "static/media/ESellers-Resume.63d3fd55.pdf": "/static/media/ESellers-Resume.63d3fd55.pdf",
-    "static/media/Fright.487d2edc.png": "/static/media/Fright.487d2edc.png",
-    "static/media/Profile.e98132c2.jpg": "/static/media/Profile.e98132c2.jpg",
-    "static/media/Snob.66846075.png": "/static/media/Snob.66846075.png"
+    "static/css/main.31e9c20a.chunk.css.map": "/static/css/main.31e9c20a.chunk.css.map",
+    "static/js/2.d33e12d8.chunk.js.LICENSE.txt": "/static/js/2.d33e12d8.chunk.js.LICENSE.txt",
+    "static/media/ESellers-Resume-2024.bc737de7.pdf": "/static/media/ESellers-Resume-2024.bc737de7.pdf",
+    "static/media/Profile_2.2937c93a.jpeg": "/static/media/Profile_2.2937c93a.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.80303d40.js",
-    "static/js/2.6e55eaa4.chunk.js",
-    "static/css/main.5aaad119.chunk.css",
-    "static/js/main.40365452.chunk.js"
+    "static/js/runtime-main.9cb2c85c.js",
+    "static/js/2.d33e12d8.chunk.js",
+    "static/css/main.31e9c20a.chunk.css",
+    "static/js/main.b61d1eb6.chunk.js"
   ]
 }
