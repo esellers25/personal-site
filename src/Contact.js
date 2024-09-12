@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faLinkedin, faGithub, faMedium } from '@fortawesome/free-brands-svg-icons';
+import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
 import { faFilePdf } from '@fortawesome/free-solid-svg-icons';
 import resume from "../src/documents/ESellers-Resume-2024.pdf"
 
